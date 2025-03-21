@@ -53,3 +53,6 @@
 - 群ID格式通常为"数字@chatroom"，请确保配置正确的群ID
 - 用户需要是好友才能被邀请进群
 - 邀请进群需要用户自己确认才能加入
+
+  ![PixPin_2025-03-21_21-20-35](https://github.com/user-attachments/assets/0bcb1b38-5442-4ccd-ba30-939ec17c06b3)
+
