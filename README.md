@@ -14,7 +14,7 @@
 ## 安装方法
 
 1. 将插件文件夹复制到 `plugins` 目录下
-2. 复制 `config.json.template` 为 `config.json` 并填写配置
+2. 更改 `auto_invite_group-config.json` 配置
 3. 重启程序或使用 `#scanp` 命令加载插件
 
 ## 配置说明
