@@ -1,0 +1,23 @@
+{
+    "auto_invite": true,
+    "invite_after_accept": false,
+    "fuzzy_match": true,
+    "match_threshold": 0.7,
+    "keyword_mappings": [
+        {
+            "keyword": "群",
+            "group_id": "真实的群ID@chatroom",
+            "reason": "欢迎加入我们的群聊"
+        },
+        {
+            "keyword": "交流群",
+            "group_id": "87654321@chatroom",
+            "reason": "欢迎加入技术交流群"
+        },
+        {
+            "keyword": "官方群",
+            "group_id": "11223344@chatroom",
+            "reason": "欢迎加入官方群"
+        }
+    ]
+}
