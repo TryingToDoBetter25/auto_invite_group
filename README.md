@@ -1,8 +1,8 @@
 # 自动邀请进群插件
 
-基于[Gewechat)](https://github.com/Devo919/Gewechat)和[DoW(dify-on-wechat)](https://github.com/hanfangyuan4396/dify-on-wechat)的插件，当用户发送包含特定关键词的消息时，自动邀请用户进入指定的微信群聊。
+基于[Gewechat](https://github.com/Devo919/Gewechat)和[DoW(dify-on-wechat)](https://github.com/hanfangyuan4396/dify-on-wechat)的插件，当用户发送包含特定关键词的消息时，自动邀请用户进入指定的微信群聊。
 
-基于[Gewechat)](https://github.com/Devo919/Gewechat)项目的API文档开发，可直接用于[DoW(dify-on-wechat)](https://github.com/hanfangyuan4396/dify-on-wechat)项目中
+基于[Gewechat](https://github.com/Devo919/Gewechat)项目的API文档开发，可直接用于[DoW(dify-on-wechat)](https://github.com/hanfangyuan4396/dify-on-wechat)项目中
 
 ## 功能特性
 
